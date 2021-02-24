@@ -15,7 +15,7 @@ Sua tarefa é criar um processo ETL/ELT com agendamento que transporte dados út
 
 # Dicas
 
-Facilite sua vida! Use alguma tecnologia de agendamento como o Apache *Airflow* ou até mesmo o *Crontab* do Linux.
+(:gem:) Facilite sua vida! Use alguma tecnologia de agendamento como o Apache *Airflow* ou até mesmo o *Crontab* do Linux.
 
 # Instruções
 
